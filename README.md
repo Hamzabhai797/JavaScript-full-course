@@ -1,2 +1,21 @@
-# JavaScript-full-course
-# 📘 JavaScript Daily Practice  This repository contains my **daily JavaScript practice code**, starting from the very basics and gradually moving toward advanced concepts.   The purpose of this repo is to **track my learning journey**, build hands-on skills, and stay consistent in programming.
+# 📘 JavaScript Daily Practice
+
+This repository contains my daily JavaScript practice code.  
+I'm starting from the basics and working my way up to advanced topics — one step at a time!
+
+---
+
+## 📅 Goal
+Practice JavaScript **every day** and build a strong foundation in:
+- Variables & Data Types
+- Loops & Conditions
+- Functions
+- DOM Manipulation
+- Arrays & Objects
+- Mini Projects (like calculator, to-do app, etc.)
+
+---
+
+## 📂 Structure
+Each folder contains code for one day or one topic.
+
