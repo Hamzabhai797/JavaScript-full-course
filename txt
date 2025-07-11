@@ -1,2 +1,35 @@
-javascript dynamically type language hote hay
-javascript ma variable ka name case sensetive hoty hay
+// javascript dynamically type language hote hay
+// string ma humary pass single quote, double quote, backtick use karsakty hoo
+// javascript ma variable ka name case sensetive hoty hay
+// javascript ma variable declare karny ka liay pehle three key words ko use karty hay(let, var, const)
+// ziada tar hum let and const use karty hay var bohat kam use karty hay
+// agr javascript ma hum var ka kafi sary variable aik hi name ka banaeye to koi error nahi milta
+// var sa declare hony waly variable ka global scope hota hay (kahi pa bhi use karsakty hoo)
+// let sa declare hony waly variable ka block scope hota hay (yani sirf usi block ma use karsakty hoo jahan declare kiya hay doabara sa redefined nahi karsakty agr redefine karna hay to new block banana pary ga)
+        Example  
+                 var age = 22
+                 var age = 23
+                 var age = 24
+                 console.log(age)
+
+// lekin agar hum let ka use karty hay to aik hi name ka variable do bar declare nahi kar sakty but update kr sakty hoo
+        Example
+                 let age = 22
+                 let age = 23
+                 let age = 24
+                 console.log(age)
+
+// const ka use karty hay to aik hi name ka variable do bar declare nahi kar sakty aur update bhi nahi kar sakty
+        Example
+                 const age = 22
+                 const age = 23
+                 const age = 24
+                 console.log(age)
+
+// javacsript ma humary pass datatypes hoty hay
+// perimitive data type (string, number, boolean, null, undefined, Bigint, symbol)
+// bigint humary pass bohat kam use hota hay
+// bigint ko hum jaha bhi use karen wahan end ma n lika hua aei ga
+// symbol bhi humary pass bohat kam use hota hay
+// symbol ko hum unique identifier ke tor par use karty hay
+// non-perimitive data type (array, object, function)
