@@ -26,6 +26,8 @@
                  const age = 24
                  console.log(age)
 
+// const ma object ki key ko hum update kar sakty hay
+
 // javacsript ma humary pass datatypes hoty hay
 // perimitive data type (string, number, boolean, null, undefined, Bigint, symbol)
 // bigint humary pass bohat kam use hota hay
@@ -33,3 +35,11 @@
 // symbol bhi humary pass bohat kam use hota hay
 // symbol ko hum unique identifier ke tor par use karty hay
 // non-perimitive data type (array, object, function)
+//Comment humary pass single line and multi line dono hoty hay
+// single line comment ke liay hum // use karty hay
+// multi line comment ke liay hum /* */ use karty hay
+//comment humary pass code ko execute nahi karne deta
+
+// javascript ma humary pass operators hoty hay
+// operators ko hum values ke sath use karty hay
+// operators ko hum expressions bananay ke liay use karty hay
