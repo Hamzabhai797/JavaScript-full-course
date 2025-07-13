@@ -43,3 +43,7 @@
 // javascript ma humary pass operators hoty hay
 // operators ko hum values ke sath use karty hay
 // operators ko hum expressions bananay ke liay use karty hay
+
+// javascript ma humary pass (alert  &  prompt) functions hoty hay
+// alert function ko hum message show karne ke liay use karty hay
+// prompt function ko hum user se input lene ke liay use karty hay
