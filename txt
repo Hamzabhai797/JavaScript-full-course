@@ -47,3 +47,8 @@
 // javascript ma humary pass (alert  &  prompt) functions hoty hay
 // alert function ko hum message show karne ke liay use karty hay
 // prompt function ko hum user se input lene ke liay use karty hay
+
+        // loops
+// loops ko hum code ko bar bar run karne ke liay use karty hay
+// javascript ma humary pass loops ka kafi methods hoty hay
+// for loop, while loop, do while loop, for of loop, for in loop,
