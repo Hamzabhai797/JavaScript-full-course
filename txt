@@ -51,4 +51,11 @@
         // loops
 // loops ko hum code ko bar bar run karne ke liay use karty hay
 // javascript ma humary pass loops ka kafi methods hoty hay
-// for loop, while loop, do while loop, for of loop, for in loop,
+// for loop, while loop, do while loop, for of loop, for in loop
+// loop ma humary pass infinite loop ka concept bhi hota hay
+// infinite loop ma humary pass koi condition nahi hoti aur loop bar bar run hota hay
+// jo kaam hum for loop se karsakty hay wai sary kaam hum while loop se bhi kar sakty hay
+// do while loop humary pass aik dafa run hota hay aur phir condition check hoti hay
+// for-of loop ko hum array & string ke sath use karty hay
+// for-of loop ma hum starting and ending and initialization condition nahi dekhty
+// for-in loop ko hum object & array ke sath use karty hay

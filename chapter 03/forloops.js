@@ -21,4 +21,9 @@
 // }
 // console.log(sum)
 
-// time 2:35:00
+//infinite loop example
+// for(i = 1; i >= 0; i++) {
+//     console.log("Hello Hamza " + i);
+// }
+
+// time 2:50:00
