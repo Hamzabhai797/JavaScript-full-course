@@ -59,3 +59,19 @@
 // for-of loop ko hum array & string ke sath use karty hay
 // for-of loop ma hum starting and ending and initialization condition nahi dekhty
 // for-in loop ko hum object & array ke sath use karty hay
+
+// javascript ma humary pass string ka concept hota hay
+// string ko humary pass single quote, double quote, backtick ke sath use karty hay
+// Backtick ko hum template literal ke tor par use karty hay
+// javascript ma humary pass escape character bhi hota hay
+// escape character ko hum string ma special characters ko use karne ke liay use karty hay
+// escape character ko hum backslash (\) ke sath use karty hay
+// escape character ko humary pass is ka count single hota hay (\n, \t, \r, \b, \f, \v, \0, \\, \', \", \`)
+
+// javascript ma humary pass concatenation ka concept hota hay
+// concatenation ko humary pass + operator ke sath use karty hay
+
+// javscript ma array ka concept hota hay
+// array ko humary pass square brackets ke sath use karty hay
+// array ka koi type nahi hota array khud aik object hota hay
+// array ma humary pass koi bhi type ka data store kar sakty hay

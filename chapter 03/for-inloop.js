@@ -34,11 +34,11 @@
 //     } 
 // }
 
-let gameNum = 25;
-let user = prompt("Enter game number: ");
-    while (user = gameNum) {
-        user = prompt("Wrong guess! Try again: ");
-}
-console.log("Congratulations! You guessed the number correctly.");
+// let gameNum = 25;
+// let user = prompt("Enter game number: ");
+//     while (user = gameNum) {
+//         user = prompt("Wrong guess! Try again: ");
+// }
+// console.log("Congratulations! You guessed the number correctly.");
 
 // time 3:10:00
