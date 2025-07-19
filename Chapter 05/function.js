@@ -25,11 +25,11 @@
 // }
 // console.log(sum(5, 9))
 
-function sum(a, b){
-    total = a + b
-    return total;
-}
-let proper = sum(98, 75)
-console.log(proper)
+// function sum(a, b){
+//     total = a + b
+//     return total;
+// }
+// let proper = sum(98, 75)
+// console.log(proper)
 
 // time 4:55:00
