@@ -75,3 +75,6 @@
 // array ko humary pass square brackets ke sath use karty hay
 // array ka koi type nahi hota array khud aik object hota hay
 // array ma humary pass koi bhi type ka data store kar sakty hay
+
+// javascript ma function humery pass aik block of code hota hay jo specific task perform kar ke deta hay
+// Arrow function aik chota method hota hay function ko likny ka

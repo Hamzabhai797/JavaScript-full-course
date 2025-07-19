@@ -42,7 +42,19 @@
 // items.pop()
 // console.log(items)
 
-let items = ["apple", "banana", "graph"]
-console.log(items.toString())
+// let items = ["apple", "banana", "graph"]
+// console.log(items.toString())
+
+// let compines = ["Bloombing", "microsoft", "uber", "google", "ibm", "netflix"]
+// compines.shift()
+// console.log(compines)
+
+// let compines = ["Bloombing", "microsoft", "uber", "google", "ibm", "netflix"]
+// compines.splice(2, 1, "ola")
+// console.log(compines)
+
+// let compines = ["Bloombing", "microsoft", "uber", "google", "ibm", "netflix"]
+// compines.push("amazon")
+// console.log(compines)
 
 // time 4:34:00
