@@ -78,3 +78,34 @@
 
 // javascript ma function humery pass aik block of code hota hay jo specific task perform kar ke deta hay
 // Arrow function aik chota method hota hay function ko likny ka
+
+// higher order function/method humary pass javascrpit ma forEach hota hay (Yani callback waly function ko HOF/HOM kehtay hay)
+// Map method forEach ka kafi similar hota hay
+// Map method ma humary pass aik naya array return hota hay
+// Filter method ma humary pass aik naya array return hota hay jo condition ke sath match karta hay
+// Reduce method ma humary pass aik single value return hoti hay jo array ke sath combine hoti hay
+
+// Dom manipulation ka concept bhi humary pass javascript ma hota hay
+// Dom manipulation ka matlab hota hay html elements ko change karna
+// Dom manipulation ma humary pass document object hota hay
+// document object ko humary pass html document ke sath interact karne ke liay use karty hay
+// document object ma humary pass getElementById, getElementsByClassName, getElementsByTagName, querySelector, querySelectorAll methods hoty hay
+// getElementById method ko humary pass id ke sath use karty hay
+// getElementsByClassName method ko humary pass class ke sath use karty hay
+// getElementsByTagName method ko humary pass tag ke sath use karty hay
+// querySelector method ko humary pass css selector ke sath use karty hay
+// querySelectorAll method ko humary pass css selector ke sath use karty hay lekin ye method multiple elements ko return karta hay
+// Dom manipulation ma humary pass innerHTML, textContent, classList, style, setAttribute, getAttribute, removeAttribute methods hoty hay
+// innerHTML method ko humary pass html content ko change karne ke liay use karty hay
+// textContent method ko humary pass text content ko change karne ke liay use karty hay
+// classList method ko humary pass class ko add, remove, toggle karne ke liay use karty hay
+// style method ko humary pass css styles ko change karne ke liay use karty hay
+// setAttribute method ko humary pass attribute ko set karne ke liay use karty hay
+// getAttribute method ko humary pass attribute ko get karne ke liay use karty hay
+// removeAttribute method ko humary pass attribute ko remove karne ke liay use karty hay
+// textContaint method hidden text ko bhi show karta hay
+// innerHTML method hidden text ko nahi show karta hay
+
+//attribute ka concept bhi humary pass javascript ma hota hay
+// attribute ko humary pass html element ke sath use karty hay (jesy kisi bhi tag ki id dena ya class dena)
+// attribute ko humary pass setAttribute, getAttribute, removeAttribute methods ke sath use karty hay

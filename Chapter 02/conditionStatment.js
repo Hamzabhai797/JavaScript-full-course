@@ -27,17 +27,15 @@
 //     console.log("This is not a multiple of 5");
 // }
 
-let num = prompt("Enter a number: ");
-if (num >= 80 && num <= 100) {
-    console.log("You got an A grade");
-} else if (num >= 70 && num <= 89){
-    console.log("You got a B grade");
-} else if (num >= 60 && num <= 69) {
-    console.log("You got a C grade");
-} else if (num >= 50 && num <= 59) {
-    console.log("You got a D grade");
-} else {
-    console.log("You got an F grade");
-}
-
-// time = 2:20:00
+// let num = prompt("Enter a number: ");
+// if (num >= 80 && num <= 100) {
+//     console.log("You got an A grade");
+// } else if (num >= 70 && num <= 89){
+//     console.log("You got a B grade");
+// } else if (num >= 60 && num <= 69) {
+//     console.log("You got a C grade");
+// } else if (num >= 50 && num <= 59) {
+//     console.log("You got a D grade");
+// } else {
+//     console.log("You got an F grade");
+// }

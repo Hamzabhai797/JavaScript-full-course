@@ -16,13 +16,12 @@
 // student["name" = "Bilal"]
 // console.log(student.grade); 
 
-const product = {
-    title: "ball pen",
-    rating: 4.5,
-    offer: null,
-    isAvailable: true,
-}
-console.log(product)
-console.log(typeof product["title"])
-console.log(typeof product.isAvailable)
-// time 1:21:00
+// const product = {
+//     title: "ball pen",
+//     rating: 4.5,
+//     offer: null,
+//     isAvailable: true,
+// }
+// console.log(product)
+// console.log(typeof product["title"])
+// console.log(typeof product.isAvailable)

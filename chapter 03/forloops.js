@@ -25,5 +25,3 @@
 // for(i = 1; i >= 0; i++) {
 //     console.log("Hello Hamza " + i);
 // }
-
-// time 2:50:00

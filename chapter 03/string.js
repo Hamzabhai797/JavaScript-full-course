@@ -32,8 +32,6 @@
 // console.log(str.charAt(0));  // returns the character at index 0
 
 
-let fullName = prompt("Enter your full name:");
-let userName = "@" + fullName + fullName.length;
-console.log(userName)
-
-// time 3:31:00
+// let fullName = prompt("Enter your full name:");
+// let userName = "@" + fullName + fullName.length;
+// console.log(userName)

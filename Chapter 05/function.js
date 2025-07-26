@@ -31,5 +31,3 @@
 // }
 // let proper = sum(98, 75)
 // console.log(proper)
-
-// time 4:55:00
