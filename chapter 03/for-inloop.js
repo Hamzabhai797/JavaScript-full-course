@@ -19,7 +19,7 @@
 
 // for(let key in student) {
 //     console.log("key:", key, "value:",student[key]);
-    // console.log("value:", student[key]);
+//     console.log("value:", student[key]);
 // }
 
 // for(let i = 0; i <= 100; i++){

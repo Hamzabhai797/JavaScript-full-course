@@ -109,3 +109,6 @@
 //attribute ka concept bhi humary pass javascript ma hota hay
 // attribute ko humary pass html element ke sath use karty hay (jesy kisi bhi tag ki id dena ya class dena)
 // attribute ko humary pass setAttribute, getAttribute, removeAttribute methods ke sath use karty hay
+
+// javascript ma humary pass event ka concept hota hay
+//event ki bohat se types hoty hay
