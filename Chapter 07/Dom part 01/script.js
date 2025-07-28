@@ -59,5 +59,3 @@
 //     div.innerText = `this is first div ${idx}`;
 //     idx ++;
 // }
-
-// time 6:52

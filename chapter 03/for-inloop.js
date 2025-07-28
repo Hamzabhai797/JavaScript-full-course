@@ -40,5 +40,3 @@
 //         user = prompt("Wrong guess! Try again: ");
 // }
 // console.log("Congratulations! You guessed the number correctly.");
-
-// time 3:10:00

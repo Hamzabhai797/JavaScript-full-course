@@ -35,9 +35,7 @@
 // }
 // console.log(arr)
 
-// let factoria = arr.reduce((res, curr) => {
+// let factorial = arr.reduce((res, curr) => {
 //     return res * curr;
 // })
-// console.log("Factorial of ", factoria); // Output: Factorial of n
-
-// time 5 :39:00
+// console.log("Factorial of ", factorial); // Output: Factorial of n

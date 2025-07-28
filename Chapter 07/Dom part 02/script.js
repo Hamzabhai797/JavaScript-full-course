@@ -50,7 +50,6 @@
 
 // Q2
 
-let para = document.querySelector("p")
-para.classList.add("newclass") // add class to the paragraph
+// let para = document.querySelector("p")
+// para.classList.add("newclass") // add class to the paragraph
 // para.classList.remove("para") // remove class from the paragraph
-// time 7:00:00
