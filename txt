@@ -112,3 +112,13 @@
 
 // javascript ma humary pass event ka concept hota hay
 //event ki bohat se types hoty hay
+
+
+//javascript ma humary pass classes and object hoty hay
+// Is ma humary pass objects hoty hay or objects ma humary pass properties and methods hoty hay
+// class ko humary pass aik template ke tor par use karty hay
+// objects ma humary pass this keyword hota hay
+// this keyword ko humary pass current object ke sath use karty hay
+
+javascript ma humary pass prototype ka concept hota hay
+prototype khud aik object hota hay is ka undr bohat sary methods hoty hay

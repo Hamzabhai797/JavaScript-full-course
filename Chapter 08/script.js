@@ -23,10 +23,42 @@
 //event listner
 // let btn1 = document.querySelector('#btn1');
 // btn1.addEventListener('click', (evt) => {
-
 // })
 
 
 // let body = document.querySelector('body');
 // body.style.backgroundColor = 'lightblue';
-// time = 7:37:00
+
+// let btn = document.querySelector("#change");
+// let mode = "light";
+
+// btn.addEventListener("click", () => {
+//     if (mode === "light"){
+//         mode = "dark";
+//         document.querySelector("body").style.backgroundColor = "black";
+//     } else {
+//         mode = "light";
+//         document.querySelector("body").style.backgroundColor = "white";
+//     }
+//     console.log(mode);
+// })
+
+
+
+// let btn = document.querySelector("#change");
+// let body = document.querySelector('body');
+// let mode = "light";
+
+// btn.addEventListener("click", () => {
+//     if (mode === "light"){
+//         mode = "dark";
+//         body.classList.add("dark")
+//         body.classList.remove("ligt")
+        
+//     } else {
+//         mode = "light";
+//         body.classList.add("light")
+//         body.classList.remove("dark")
+//     }
+//     console.log(mode);
+// })
