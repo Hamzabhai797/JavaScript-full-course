@@ -18,4 +18,5 @@
 // }
 // hamzaKhan.__proto__ = Employee; // hamzaKhan ko Employee ka prototype bana dia
 // hamzaKhan.calcTax(); // Tax rate is 10%
-// time 8:43:00
+
+

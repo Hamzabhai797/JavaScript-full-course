@@ -122,3 +122,42 @@
 
 javascript ma humary pass prototype ka concept hota hay
 prototype khud aik object hota hay is ka undr bohat sary methods hoty hay
+javacsript ma humary pass classes hote hay jo object ko bananay ka template deti hay 
+class object ka liay blueprint hoti hay
+contructor class ka ander aik method hota hay
+
+inheritance 
+agr ap ka pass koi bhi methods hoo to usko inherit karta hay 
+aik class se property dosri class ka taraf pass down hoty hay
+hum jo bhi kaam classes objects & inheritance sa karty hay wo sary kaam function sa karna possible hay humy ya sab use karna koi core need nahi hote 
+
+
+javacsript ma humary pass try & catch ka concept hota hay
+ya error handling ke liay use hota hay
+try block ma hum error wala code likty hay (mean ka code jo error de sakta hay)
+catch block ma hum error ko handle karte hay
+
+syncronus and asynchronous ka concept bhi humary pass hota hay
+syncronus code ma humary pass code sequentially run hota hay
+asynchronous code ma humary pass code parallelly run hota hay
+asynchronous humary pass (jesy ka hum koi bhi bara sa code run karty hay us ma start se run hota hay and beech ma kuch lines time leti hay to waha se asynchronouska concept aata hay)
+
+callback function ka concept bhi humary pass hota hay
+callback function ko humary pass aik function ke ander hum dosra function pass karte hay usy kehty hay
+callback function ko without parentesis call karty hay
+
+promises Humary pass callbackHill ko solve karne ke liay use hoty hay
+promises ma humary pass do states hoty hay (resolve and reject)
+resolve ka matlab hota hay ke promise complete ho gaya hay
+reject ka matlab hota hay ke promise complete nahi ho saka
+promises javacsript ma khud aik object hota hay
+promises ko humary pass then and catch methods ke sath use karty hay
+promise ki 3 state hote hay (pending, fulfilled, rejected)  pending ka matlab hota hay ke promise abhi tak complete nahi hua hay
+fulfilled ka matlab hota hay ke promise complete ho gaya hay
+rejected ka matlab hota hay ke promise complete nahi ho saka
+promise use karne ka tareeka fulfilled ka saat .then() method use karte hay
+rejected ka saat .catch() method use karte hay
+
+async-await humary pass javascript ma key words hoty hay
+is ka kaam hay asynchronous programming ko simple banana
+await ko hum just async function ka undr hi use karsakty hay normally use nahi kar sakty
