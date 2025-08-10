@@ -1,124 +1,124 @@
-// javascript dynamically type language hote hay
-// string ma humary pass single quote, double quote, backtick use karsakty hoo
-// javascript ma variable ka name case sensetive hoty hay
-// javascript ma variable declare karny ka liay pehle three key words ko use karty hay(let, var, const)
-// ziada tar hum let and const use karty hay var bohat kam use karty hay
-// agr javascript ma hum var ka kafi sary variable aik hi name ka banaeye to koi error nahi milta
-// var sa declare hony waly variable ka global scope hota hay (kahi pa bhi use karsakty hoo)
-// let sa declare hony waly variable ka block scope hota hay (yani sirf usi block ma use karsakty hoo jahan declare kiya hay doabara sa redefined nahi karsakty agr redefine karna hay to new block banana pary ga)
+javascript dynamically type language hote hay
+string ma humary pass single quote, double quote, backtick use karsakty hoo
+javascript ma variable ka name case sensetive hoty hay
+javascript ma variable declare karny ka liay pehle three key words ko use karty hay(let, var, const)
+ziada tar hum let and const use karty hay var bohat kam use karty hay
+agr javascript ma hum var ka kafi sary variable aik hi name ka banaeye to koi error nahi milta
+var sa declare hony waly variable ka global scope hota hay (kahi pa bhi use karsakty hoo)
+let sa declare hony waly variable ka block scope hota hay (yani sirf usi block ma use karsakty hoo jahan declare kiya hay doabara sa redefined nahi karsakty agr redefine karna hay to new block banana pary ga)
         Example  
                  var age = 22
                  var age = 23
                  var age = 24
                  console.log(age)
 
-// lekin agar hum let ka use karty hay to aik hi name ka variable do bar declare nahi kar sakty but update kr sakty hoo
+lekin agar hum let ka use karty hay to aik hi name ka variable do bar declare nahi kar sakty but update kr sakty hoo
         Example
                  let age = 22
                  let age = 23
                  let age = 24
                  console.log(age)
 
-// const ka use karty hay to aik hi name ka variable do bar declare nahi kar sakty aur update bhi nahi kar sakty
+const ka use karty hay to aik hi name ka variable do bar declare nahi kar sakty aur update bhi nahi kar sakty
         Example
                  const age = 22
                  const age = 23
                  const age = 24
                  console.log(age)
 
-// const ma object ki key ko hum update kar sakty hay
+const ma object ki key ko hum update kar sakty hay
 
-// javacsript ma humary pass datatypes hoty hay
-// perimitive data type (string, number, boolean, null, undefined, Bigint, symbol)
-// bigint humary pass bohat kam use hota hay
-// bigint ko hum jaha bhi use karen wahan end ma n lika hua aei ga
-// symbol bhi humary pass bohat kam use hota hay
-// symbol ko hum unique identifier ke tor par use karty hay
-// non-perimitive data type (array, object, function)
-//Comment humary pass single line and multi line dono hoty hay
-// single line comment ke liay hum // use karty hay
-// multi line comment ke liay hum /* */ use karty hay
-//comment humary pass code ko execute nahi karne deta
+javacsript ma humary pass datatypes hoty hay
+perimitive data type (string, number, boolean, null, undefined, Bigint, symbol)
+bigint humary pass bohat kam use hota hay
+bigint ko hum jaha bhi use karen wahan end ma n lika hua aei ga
+symbol bhi humary pass bohat kam use hota hay
+symbol ko hum unique identifier ke tor par use karty hay
+non-perimitive data type (array, object, function)
+Comment humary pass single line and multi line dono hoty hay
+single line comment ke liay hum // use karty hay
+multi line comment ke liay hum /* */ use karty hay
+comment humary pass code ko execute nahi karne deta
 
-// javascript ma humary pass operators hoty hay
-// operators ko hum values ke sath use karty hay
-// operators ko hum expressions bananay ke liay use karty hay
+javascript ma humary pass operators hoty hay
+operators ko hum values ke sath use karty hay
+operators ko hum expressions bananay ke liay use karty hay
 
-// javascript ma humary pass (alert  &  prompt) functions hoty hay
-// alert function ko hum message show karne ke liay use karty hay
-// prompt function ko hum user se input lene ke liay use karty hay
+javascript ma humary pass (alert  &  prompt) functions hoty hay
+alert function ko hum message show karne ke liay use karty hay
+prompt function ko hum user se input lene ke liay use karty hay
 
-        // loops
-// loops ko hum code ko bar bar run karne ke liay use karty hay
-// javascript ma humary pass loops ka kafi methods hoty hay
-// for loop, while loop, do while loop, for of loop, for in loop
-// loop ma humary pass infinite loop ka concept bhi hota hay
-// infinite loop ma humary pass koi condition nahi hoti aur loop bar bar run hota hay
-// jo kaam hum for loop se karsakty hay wai sary kaam hum while loop se bhi kar sakty hay
-// do while loop humary pass aik dafa run hota hay aur phir condition check hoti hay
-// for-of loop ko hum array & string ke sath use karty hay
-// for-of loop ma hum starting and ending and initialization condition nahi dekhty
-// for-in loop ko hum object & array ke sath use karty hay
+        loops
+loops ko hum code ko bar bar run karne ke liay use karty hay
+javascript ma humary pass loops ka kafi methods hoty hay
+for loop, while loop, do while loop, for of loop, for in loop
+loop ma humary pass infinite loop ka concept bhi hota hay
+infinite loop ma humary pass koi condition nahi hoti aur loop bar bar run hota hay
+jo kaam hum for loop se karsakty hay wai sary kaam hum while loop se bhi kar sakty hay
+do while loop humary pass aik dafa run hota hay aur phir condition check hoti hay
+for-of loop ko hum array & string ke sath use karty hay
+for-of loop ma hum starting and ending and initialization condition nahi dekhty
+for-in loop ko hum object & array ke sath use karty hay
 
-// javascript ma humary pass string ka concept hota hay
-// string ko humary pass single quote, double quote, backtick ke sath use karty hay
-// Backtick ko hum template literal ke tor par use karty hay
-// javascript ma humary pass escape character bhi hota hay
-// escape character ko hum string ma special characters ko use karne ke liay use karty hay
-// escape character ko hum backslash (\) ke sath use karty hay
-// escape character ko humary pass is ka count single hota hay (\n, \t, \r, \b, \f, \v, \0, \\, \', \", \`)
+javascript ma humary pass string ka concept hota hay
+string ko humary pass single quote, double quote, backtick ke sath use karty hay
+Backtick ko hum template literal ke tor par use karty hay
+javascript ma humary pass escape character bhi hota hay
+escape character ko hum string ma special characters ko use karne ke liay use karty hay
+escape character ko hum backslash (\) ke sath use karty hay
+escape character ko humary pass is ka count single hota hay (\n, \t, \r, \b, \f, \v, \0, \\, \', \", \`)
 
-// javascript ma humary pass concatenation ka concept hota hay
-// concatenation ko humary pass + operator ke sath use karty hay
+javascript ma humary pass concatenation ka concept hota hay
+concatenation ko humary pass + operator ke sath use karty hay
 
-// javscript ma array ka concept hota hay
-// array ko humary pass square brackets ke sath use karty hay
-// array ka koi type nahi hota array khud aik object hota hay
-// array ma humary pass koi bhi type ka data store kar sakty hay
+javscript ma array ka concept hota hay
+array ko humary pass square brackets ke sath use karty hay
+array ka koi type nahi hota array khud aik object hota hay
+array ma humary pass koi bhi type ka data store kar sakty hay
 
-// javascript ma function humery pass aik block of code hota hay jo specific task perform kar ke deta hay
-// Arrow function aik chota method hota hay function ko likny ka
+javascript ma function humery pass aik block of code hota hay jo specific task perform kar ke deta hay
+Arrow function aik chota method hota hay function ko likny ka
 
-// higher order function/method humary pass javascrpit ma forEach hota hay (Yani callback waly function ko HOF/HOM kehtay hay)
-// Map method forEach ka kafi similar hota hay
-// Map method ma humary pass aik naya array return hota hay
-// Filter method ma humary pass aik naya array return hota hay jo condition ke sath match karta hay
-// Reduce method ma humary pass aik single value return hoti hay jo array ke sath combine hoti hay
+higher order function/method humary pass javascrpit ma forEach hota hay (Yani callback waly function ko HOF/HOM kehtay hay)
+Map method forEach ka kafi similar hota hay
+Map method ma humary pass aik naya array return hota hay
+Filter method ma humary pass aik naya array return hota hay jo condition ke sath match karta hay
+Reduce method ma humary pass aik single value return hoti hay jo array ke sath combine hoti hay
 
-// Dom manipulation ka concept bhi humary pass javascript ma hota hay
-// Dom manipulation ka matlab hota hay html elements ko change karna
-// Dom manipulation ma humary pass document object hota hay
-// document object ko humary pass html document ke sath interact karne ke liay use karty hay
-// document object ma humary pass getElementById, getElementsByClassName, getElementsByTagName, querySelector, querySelectorAll methods hoty hay
-// getElementById method ko humary pass id ke sath use karty hay
-// getElementsByClassName method ko humary pass class ke sath use karty hay
-// getElementsByTagName method ko humary pass tag ke sath use karty hay
-// querySelector method ko humary pass css selector ke sath use karty hay
-// querySelectorAll method ko humary pass css selector ke sath use karty hay lekin ye method multiple elements ko return karta hay
-// Dom manipulation ma humary pass innerHTML, textContent, classList, style, setAttribute, getAttribute, removeAttribute methods hoty hay
-// innerHTML method ko humary pass html content ko change karne ke liay use karty hay
-// textContent method ko humary pass text content ko change karne ke liay use karty hay
-// classList method ko humary pass class ko add, remove, toggle karne ke liay use karty hay
-// style method ko humary pass css styles ko change karne ke liay use karty hay
-// setAttribute method ko humary pass attribute ko set karne ke liay use karty hay
-// getAttribute method ko humary pass attribute ko get karne ke liay use karty hay
-// removeAttribute method ko humary pass attribute ko remove karne ke liay use karty hay
-// textContaint method hidden text ko bhi show karta hay
-// innerHTML method hidden text ko nahi show karta hay
+Dom manipulation ka concept bhi humary pass javascript ma hota hay
+Dom manipulation ka matlab hota hay html elements ko change karna
+Dom manipulation ma humary pass document object hota hay
+document object ko humary pass html document ke sath interact karne ke liay use karty hay
+document object ma humary pass getElementById, getElementsByClassName, getElementsByTagName, querySelector, querySelectorAll methods hoty hay
+getElementById method ko humary pass id ke sath use karty hay
+getElementsByClassName method ko humary pass class ke sath use karty hay
+getElementsByTagName method ko humary pass tag ke sath use karty hay
+querySelector method ko humary pass css selector ke sath use karty hay
+querySelectorAll method ko humary pass css selector ke sath use karty hay lekin ye method multiple elements ko return karta hay
+Dom manipulation ma humary pass innerHTML, textContent, classList, style, setAttribute, getAttribute, removeAttribute methods hoty hay
+innerHTML method ko humary pass html content ko change karne ke liay use karty hay
+textContent method ko humary pass text content ko change karne ke liay use karty hay
+classList method ko humary pass class ko add, remove, toggle karne ke liay use karty hay
+style method ko humary pass css styles ko change karne ke liay use karty hay
+setAttribute method ko humary pass attribute ko set karne ke liay use karty hay
+getAttribute method ko humary pass attribute ko get karne ke liay use karty hay
+removeAttribute method ko humary pass attribute ko remove karne ke liay use karty hay
+textContaint method hidden text ko bhi show karta hay
+innerHTML method hidden text ko nahi show karta hay
 
-//attribute ka concept bhi humary pass javascript ma hota hay
-// attribute ko humary pass html element ke sath use karty hay (jesy kisi bhi tag ki id dena ya class dena)
-// attribute ko humary pass setAttribute, getAttribute, removeAttribute methods ke sath use karty hay
+attribute ka concept bhi humary pass javascript ma hota hay
+attribute ko humary pass html element ke sath use karty hay (jesy kisi bhi tag ki id dena ya class dena)
+attribute ko humary pass setAttribute, getAttribute, removeAttribute methods ke sath use karty hay
 
-// javascript ma humary pass event ka concept hota hay
-//event ki bohat se types hoty hay
+javascript ma humary pass event ka concept hota hay
+event ki bohat se types hoty hay
 
 
-//javascript ma humary pass classes and object hoty hay
-// Is ma humary pass objects hoty hay or objects ma humary pass properties and methods hoty hay
-// class ko humary pass aik template ke tor par use karty hay
-// objects ma humary pass this keyword hota hay
-// this keyword ko humary pass current object ke sath use karty hay
+javascript ma humary pass classes and object hoty hay
+Is ma humary pass objects hoty hay or objects ma humary pass properties and methods hoty hay
+class ko humary pass aik template ke tor par use karty hay
+objects ma humary pass this keyword hota hay
+this keyword ko humary pass current object ke sath use karty hay
 
 javascript ma humary pass prototype ka concept hota hay
 prototype khud aik object hota hay is ka undr bohat sary methods hoty hay
@@ -161,3 +161,17 @@ rejected ka saat .catch() method use karte hay
 async-await humary pass javascript ma key words hoty hay
 is ka kaam hay asynchronous programming ko simple banana
 await ko hum just async function ka undr hi use karsakty hay normally use nahi kar sakty
+async function ko hum banaty hay async keyword ke sath
+
+IIFE (Immediately Invoked Function Expression) ka concept bhi humary pass hota hay
+IIFE ko humary pass aik function hota hay jo immediately run hota hay
+IIFE function ka koi name nahi hota
+ya aik bar liky jaty hay aur jaha liky jaty hay wahan hi run hota hay
+IIFE ko humary pass (function(){}()) ke sath use karty hay  ya round brackets ma band hota hay and last ma bhi round brackets lagty hay
+
+API (Application Programming Interface) ka concept bhi humary pass hota hay
+fetch api call karne ka liay use hota hay
+data recieved/sending 2no ka liay hum fetch api ka use karty hay
+fetch api internally request/response object ko use karti hay
+
+HTTP(hyper text transfer protocol)
