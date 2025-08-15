@@ -25,3 +25,7 @@
 // for(i = 1; i >= 0; i++) {
 //     console.log("Hello Hamza " + i);
 // }
+
+// for(let i = 1; i <= 6; i ++){
+//   console.log(i)
+// }

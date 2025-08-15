@@ -46,5 +46,3 @@
 //   console.log(count)
 // }
 // countVowel("Kia Haal hay")
-
-

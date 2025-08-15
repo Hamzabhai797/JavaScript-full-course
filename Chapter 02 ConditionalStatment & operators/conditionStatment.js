@@ -39,3 +39,10 @@
 // } else {
 //     console.log("You got an F grade");
 // }
+
+// let temp = prompt("Enter tempertaure: ")
+// if (temp > 30){
+//   console.log("Hot")
+// } else {
+//   console.log("Cool")
+// }

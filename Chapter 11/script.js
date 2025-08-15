@@ -21,7 +21,3 @@
 //     let data = await Response.json()
 //     console.log(data)
 // }
-
-
-
-//time 11:00:00
