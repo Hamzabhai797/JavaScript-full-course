@@ -3,7 +3,7 @@
 // }
 // arrowFunct(3, 2)
 
-// const arrowMulti = (a, b)=>{
+// const arrowMulti = (a, b) => {
 //     return a * b
 // }
 // console.log(arrowMulti(3, 9))
