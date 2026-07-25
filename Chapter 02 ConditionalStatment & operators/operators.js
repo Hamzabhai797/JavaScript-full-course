@@ -1,12 +1,12 @@
 // Arithmetic Opertors
 // let a = 5;
 // let b = 2;
-// console.log(a + b); // Addition
-// console.log(a - b); // Subtraction
-// console.log(a * b); // Multiplication
-// console.log(a / b); // Division
-// console.log(a % b); // Modulus
-// console.log(a ** b); // Exponentiation
+// console.log("a + b = ", a + b); // Addition
+// console.log("a - b = ", a - b); // Subtraction
+// console.log("a * b = ", a * b); // Multiplication
+// console.log("a / b = ", a / b); // Division
+// console.log("a % b = ", a % b); // Modulus
+// console.log("a ** b = ", a ** b); // Exponentiation
 
 
 // unary Operators
@@ -19,13 +19,18 @@
 // console.log(c); // Decrement
 
 //Assignment Operators
-// let a = 5;
+// let a = 5; 
 // let b = 2;
 // a += b; // Addition Assignment
+// console.log(a)
 // a -= b; // Subtraction Assignment
+// console.log(a);
 // a *= b; // Multiplication Assignment
+// console.log(a)
 // a /= b; // Division Assignment
+// console.log(a)
 // a %= b; // Modulus Assignment
+// console.log(a)
 // a **= b; // Exponentiation Assignment
 // console.log(a);
 

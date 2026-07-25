@@ -14,7 +14,7 @@
 // }
 
 // student["name" = "Bilal"]
-// console.log(student.grade); 
+// console.log(student.grade);
 
 // const product = {
 //     title: "ball pen",
@@ -25,3 +25,25 @@
 // console.log(product)
 // console.log(typeof product["title"])
 // console.log(typeof product.isAvailable)
+
+// console.log("Hamza bhai")
+// console.log("again start js")
+
+// const profile = {
+//   name: "Hamza",
+//   post: 159,
+//   followers: 100,
+//   following: 50,
+// };
+
+// console.log(profile)
+
+// const profile = {
+//   name: "Hamza",
+//   post: 159,
+//   followers: 100,
+//   following: 50,
+// };
+
+// profile["name"] = "osama";
+// console.log(typeof(profile));
