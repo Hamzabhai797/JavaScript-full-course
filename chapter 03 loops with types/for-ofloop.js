@@ -17,3 +17,8 @@
 //     size++;
 // }
 // console.log("Total characters in string:", size)
+
+// let str = "Hamza khan"
+// for(let i of str) {
+//   console.log("i", i)
+// }

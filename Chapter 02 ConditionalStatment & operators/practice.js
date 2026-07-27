@@ -93,4 +93,16 @@
 //   console.log("Incorrect");
 // }
 
-// time = 2:24:55
+
+// marks = prompt("Enter marks")
+// if(marks >= 80 && marks <= 100){
+//   console.log("Congratulation you have a A grade")
+// } else if(marks >= 70 && marks <= 79) {
+//   console.log("Very good you have a B grade")
+// } else if (marks >= 60 && marks <= 69) {
+//   console.log("good you have a C grade")
+// } else if(marks >= 50 && marks <= 59) {
+//   console.log("VIP good")
+// } else {
+//   console.log("Fail")
+// }

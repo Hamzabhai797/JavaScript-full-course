@@ -29,3 +29,22 @@
 // for(let i = 1; i <= 6; i ++){
 //   console.log(i)
 // }
+
+// for (let i = 1; i <= 5; i++){
+//   console.log("Hamza")
+// }
+
+// let sum = prompt("Enter a Number: ")
+// for (let i = 1; i <= 10; i++){
+//   total = sum + 1
+// }
+// console.log(total)
+
+// let sum = prompt("Enter a Number: ");
+// let n = 15
+// for (let i = 1; i <= n; i++) {
+//   total = sum + 1;
+// }
+// console.log(total);
+
+// 2:45:30

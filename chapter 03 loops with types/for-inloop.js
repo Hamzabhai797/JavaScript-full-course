@@ -40,3 +40,17 @@
 //         user = prompt("Wrong guess! Try again: ");
 // }
 // console.log("Congratulations! You guessed the number correctly.");
+
+
+// let student = {
+//   name: "Hamza",
+//   age: 23,
+//   gpa: 2.6,
+//   isPass: true
+// }
+
+// for(let i in student) {
+//   console.log("student", i)
+// }
+
+// 3:10:00
