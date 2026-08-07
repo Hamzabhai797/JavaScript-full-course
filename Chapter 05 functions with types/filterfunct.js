@@ -39,3 +39,50 @@
 //     return res * curr;
 // })
 // console.log("Factorial of ", factorial); // Output: Factorial of n
+
+// let arr = [1, 2, 3, 4, 5, 6, 7]
+// let evenArr = arr.filter((val) => {
+//   return val % 2 == 0;
+// })
+// console.log(evenArr)
+
+// let arr = [1, 2, 3, 4, 5, 6, 7];
+// let evenArr = arr.filter((val) => {
+//   return val % 2 !== 0;
+// });
+// console.log(evenArr);
+
+// let arr = [1, 2, 3, 4, 5, 6, 7];
+// let evenArr = arr.filter((val) => {
+//   return val > 3;
+// });
+// console.log(evenArr);
+
+
+// let arr = [1, 2, 3, 4, 5, 6];
+// let newArr = arr.reduce((prev, curr) => {
+//   return prev + curr
+// });
+// console.log(newArr)
+
+
+// let arr = [1, 2, 3, 4, 5, 6];
+// let newArr = arr.reduce((prev, curr) => {
+//   return prev - curr;
+// });
+// console.log(newArr);
+
+
+// let arr = [1, 2, 3, 4, 5, 6];
+// let newArr = arr.reduce((prev, curr) => {
+//   return prev > curr ? prev : curr;
+// });
+// console.log(newArr);
+
+// let arr = [1, 2, 3, 4, 5, 6];
+// let newArr = arr.reduce((prev, curr) => {
+//   return prev < curr ? prev : curr;
+// });
+// console.log(newArr);
+
+// 5: 32: 10

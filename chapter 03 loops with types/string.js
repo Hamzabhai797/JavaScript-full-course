@@ -31,7 +31,39 @@
 // let str  = "Hello, World!";
 // console.log(str.charAt(0));  // returns the character at index 0
 
-
 // let fullName = prompt("Enter your full name:");
 // let userName = "@" + fullName + fullName.length;
 // console.log(userName)
+
+// let str = "Hamza"
+// console.log(str.length)
+
+// let str = "Hi hamza"
+// console.log(str[1])
+
+// let obj = {
+//   item: "pen",
+//   price: 20
+// }
+
+// let out = `the item ${obj.item} the price is ${obj.price}`
+// console.log(out)
+
+// let str = "Hamza"
+// let str2 = "khan"
+// console.log(str.concat(str2))
+// console.log(str2.concat(str))
+// console.log(str + str2)
+
+// let str = "hamza"
+// console.log(str.replace("h", "o"))
+
+// let fullName = prompt("Enter your full Name without spaces")
+// let userName = "@" + fullName + 123
+// console.log(userName)
+
+// let fullName = prompt("Enter your full Name without spaces");
+// let userName = "@" + fullName + fullName.length;
+// console.log(userName);
+
+// 3:43:30

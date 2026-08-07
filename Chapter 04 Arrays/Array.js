@@ -56,3 +56,27 @@
 // let compines = ["Bloombing", "microsoft", "uber", "google", "ibm", "netflix"]
 // compines.push("amazon")
 // console.log(compines)
+
+
+// let marks = [98, 76, 85, 65, 39]
+// console.log(marks)
+// console.log(marks.length)
+
+
+// let compines = ["Bloombing", "microsoft", "uber", "google", "ibm", "netflix"];
+// for(let idx = 0; idx < compines.length; idx ++){
+//   console.log(compines[idx])
+// }
+
+// let arr = ["bloomburg", "Microsoft", "uber", "google", "ibm", "netflix"]
+// arr.shift()
+// console.log(arr)
+
+// let arr = ["bloomburg", "Microsoft", "uber", "google", "ibm", "netflix"];
+// arr.splice(2, 1, "ola")
+// console.log(arr)
+
+
+// let arr = ["bloomburg", "Microsoft", "uber", "google", "ibm", "netflix"];
+// arr.push("Amazon")
+// console.log(arr)

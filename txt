@@ -78,10 +78,13 @@ javscript ma array ka concept hota hay
 array ko humary pass square brackets ke sath use karty hay
 array ka koi type nahi hota array khud aik object hota hay
 array ma humary pass koi bhi type ka data store kar sakty hay
+slice method origional array ka undr change nahi karta
+splice method origional array ka undr change karta hay is ma hum (starting, deleting, or adding) ka batay hay mean ka kaha sa start hoga kitny delete hongay and kitny add hongay
 
 javascript ma function humery pass aik block of code hota hay jo specific task perform kar ke deta hay
 Arrow function aik chota method hota hay function ko likny ka
-
+for each function ya aik tareky ka loop hota hay jis ko hum generally apny arrays ka liay use kar sakty hay
+for ech function ko call karna nahi perhta automatically call ho jata hay
 higher order function/method humary pass javascrpit ma forEach hota hay (Yani callback waly function ko HOF/HOM kehtay hay)
 Map method forEach ka kafi similar hota hay
 Map method ma humary pass aik naya array return hota hay
